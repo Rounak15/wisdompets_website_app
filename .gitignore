@@ -119,4 +119,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Wisdompets app specific
+wisdompets/__pycache__/settings.cpython-37.pyc
+wisdompets/__pycache__/urls.cpython-37.pyc
+
+# CSV data files
+*.CSV
+
+# Visual Studio code folder
+.vscode/**
+
 # End of https://www.gitignore.io/api/django
